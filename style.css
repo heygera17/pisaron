@@ -1,0 +1,18 @@
+h1
+{
+	color: rgb(5, 100, 5); 
+	font-size: 40px;
+}
+.body_backgorund {
+    background-image: url("Pizarron.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#Mycanvas{
+    background-color: white;
+    border-color: black;
+    border-width: 15px;
+    border-style: groove;
+
+}
